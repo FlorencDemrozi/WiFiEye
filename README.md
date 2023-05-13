@@ -7,7 +7,7 @@ with contributions from:
 - Cristian Turetta <cristian.turetta@univr.it> - Scripts to interface TensorFlow
 - Florenc Demrozi <florenc.demorzi@uis.no> - Specification of timestamp format
 
-![image](https://github.com/FlorencDemrozi/WiFiEye/assets/27733000/19f2fef6-ac4a-46a6-aca3-3f54e9d8355d)
+![image](https://github.com/FlorencDemrozi/WiFiEye/assets/27733000/446a5252-ead6-4bc5-8291-564f8d2c498f)
 
 License
 -------
