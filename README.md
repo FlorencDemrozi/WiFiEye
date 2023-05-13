@@ -179,8 +179,7 @@ Any use of this project which results in an academic publication or other public
   journal={arXiv preprint arXiv:2204.01830},
   year={2022}
 }
-```
-```
+
 @article{demrozi2023dataset,
   title={A Dataset on CSI-based Activity Recognition in Real-World Environments},
   author={Demrozi, Florenc and Turetta, Cristian and Masrur, Alejandro and Schmidhammer, Martin and Gentner, Christian and Chakraborty, Samarjit and Pravadelli, Graziano and Kindt, Philipp},
