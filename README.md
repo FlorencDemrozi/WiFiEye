@@ -7,6 +7,7 @@ with contributions from:
 - Cristian Turetta <cristian.turetta@univr.it> - Scripts to interface TensorFlow
 - Florenc Demrozi <florenc.demorzi@uis.no> - Specification of timestamp format
 
+![image](https://github.com/FlorencDemrozi/WiFiEye/assets/27733000/19f2fef6-ac4a-46a6-aca3-3f54e9d8355d)
 
 License
 -------
@@ -79,6 +80,7 @@ WiFiEye consists of the following two pieces of software
 
 
 # Using WiFiEye Studio #
+![image](https://github.com/FlorencDemrozi/WiFiEye/assets/27733000/43b15671-671a-4757-936d-c6ad3a5eee34)
 
 You can find a good overview on the functionality provided by WiFiEye in our paper. 
 When hovering the mouse over some object, a quick description in shown in the status bar.
