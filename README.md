@@ -170,5 +170,24 @@ Next, you find a documentation in the file _doc/latex/refman.pdf_.
 
 Please also let us know if you'd like to contribute some code to our repository.
 
+# Reference our project #
+Any use of this project which results in an academic publication or other publication which includes a bibliography should include a citation to the WiFiEye project and probably one of our papers depending on the code you use. 
+```
+@article{kindt2022wifieye,
+  title={WifiEye--Seeing over WiFi Made Accessible},
+  author={Kindt, Philipp H and Turetta, Cristian and Demrozi, Florenc and Masrur, Alejandro and Pravadelli, Graziano and Chakraborty, Samarjit},
+  journal={arXiv preprint arXiv:2204.01830},
+  year={2022}
+}
+```
+```
+@article{demrozi2023dataset,
+  title={A Dataset on CSI-based Activity Recognition in Real-World Environments},
+  author={Demrozi, Florenc and Turetta, Cristian and Masrur, Alejandro and Schmidhammer, Martin and Gentner, Christian and Chakraborty, Samarjit and Pravadelli, Graziano and Kindt, Philipp},
+  year={2023},
+  publisher={TechRxiv}
+}
+```
+
 # Acknowledgements #
 Thanks to Alejandro Masrur, Florenc Demrozi, Cristian Turetta, Graziano Pravadelli, Samarjit Chakraborty and Shengjie Xu for the pleasant interactions related to WiFiEye.
