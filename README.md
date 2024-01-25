@@ -7,7 +7,7 @@ with contributions from:
 - Cristian Turetta <cristian.turetta@univr.it> - Scripts to interface TensorFlow
 - Florenc Demrozi <florenc.demrozi@univr.it> - Specification of timestamp format
 
-This software tool accompanies our [paper](https://arxiv.org/abs/2204.01830) titled "WiFiEye -- Seeing over WiFi Made Accessible", to appear
+This software tool accompanies our [paper](https://arxiv.org/abs/2204.01830) titled "WirelessEye -- Seeing over WiFi Made Accessible", to appear
 at the WiSense workshop at PerCom 2024
 
 License
